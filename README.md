@@ -1,7 +1,7 @@
 # adbp
 A python script to make working with proxies on your Android devices _much_ easier!
 
---
+----
 
 # Installation
 
@@ -26,7 +26,7 @@ Commands:
   remove  Removes any proxy
 ```
 
-## Add a proxy
+## Add a proxy
 
 ```
 Usage: adbp.py add [OPTIONS]
@@ -48,7 +48,7 @@ Options:
 
 `python3 adbp.py add --serial 1234 --ip 192.168.0.1 --port 8080` - Adds proxy of 192.168.0.1:8080 to connected device with serial id 1234
 
-## Remove a proxy
+## Remove a proxy
 
 ```
 Usage: adbp.py remove [OPTIONS]
