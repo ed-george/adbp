@@ -65,3 +65,7 @@ Options:
 `python3 adbp.py remove` - Removes any configured proxy on **all** connected devices
 
 `python3 adbp.py remove --serial 1234` - Removes any configured proxy on connected device with serial id 1234
+
+## Contributing 🛠
+
+I welcome contributions and discussion for new features or bug fixes. It is recommended to file an issue first to prevent unnecessary efforts, but feel free to put in pull requests in the case of trivial changes. In any other case, please feel free to open discussion and I will get back to you when possible.
