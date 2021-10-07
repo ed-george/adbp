@@ -1,15 +1,20 @@
 # adbp
-A python script to make working with proxies on your Android devices _much_ easier!
+A Python script to make working with proxies on your Android devices _much_ easier!
 
 ----
 
 # Installation
 
-Pre-Requisites:
+### Pre-Requisites
 
 *  [adb](https://developer.android.com/studio/command-line/adb)
 *  [Python 3](https://www.python.org/downloads/)
-*  [Click](https://click.palletsprojects.com/en/8.0.x/) - `pip install click`
+
+### Install packages
+
+```
+pip install -r requirements.txt
+```
 
 # Usage
 
